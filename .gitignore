@@ -1,0 +1,11 @@
+rag_env/
+__pycache__/
+.env
+choma_db/
+L11.ipynb
+rag_extraction.py
+rag_extraction_v1.py
+test_docling.py
+evidence*
+page*
+pdf*
